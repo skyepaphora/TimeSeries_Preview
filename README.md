@@ -1,13 +1,11 @@
 # TimeSeries_Preview
-A taste of the Time Series course I taught last year ❤️🕑
+**STAT 464: Discrete Time Series Analysis | Fall 2024 - Queen's University** 
+
+*A taste of the Time Series course I taught last year* ❤️🕑 
 
 ---
 
-## STAT 464: Discrete Time Series Analysis
-
-
-### Google Slide Links
-**Fall 2024 - Queen's University**
+# Slides!
 
 | Week   | Monday     | Wednesday  | Friday     |
 |:------:|:-----------|:-----------|:-----------|
