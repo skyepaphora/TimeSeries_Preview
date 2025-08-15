@@ -1,17 +1,10 @@
 # TimeSeries_Preview
 A taste of the Time Series course I taught last year ❤️🕑
 
+---
 
 ## STAT 464: Discrete Time Series Analysis
 **Fall 2024 - Queen's University**
-
----
-
-### Google Slides Presentations
-
-The following links provide access to the course's full slideshows.
-
-Unlike the pdfs in the [printable slides](https://github.com/skyepaphora/TimeSeries_FA24/tree/main/Printable_Slides) folder, these slideshows **include gifs and videos.**
 
 | Week   | Monday     | Wednesday  | Friday     |
 |:------:|:-----------|:-----------|:-----------|
